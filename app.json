@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "UUID，Can generated at https://www.uuidgenerator.net/",
-            "value": "1eb6e917-774b-4a84-aff6-b058577c60a5"
+            "value": "6e02c1d2-564d-401c-9d68-58cac5d1f66f"
         }
     },
     "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/Misaka-blog/HX",
+    "repository": "https://github.com/MISKALL/HXx",
     "stack": "container"
 }
